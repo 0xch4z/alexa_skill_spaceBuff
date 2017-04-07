@@ -1,0 +1,15 @@
+{
+  "name": "spacebuff",
+  "version": "1.0.0",
+  "description": "A space sentiment for Amazon Alexa.",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Kenney",
+  "license": "MIT"
+}
