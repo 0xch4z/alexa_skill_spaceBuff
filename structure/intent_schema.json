@@ -1,0 +1,31 @@
+{
+  "intents" : [
+    {
+      "intent" : "HelloWorld"
+    },
+    {
+      "intent" : "GetRandomSpaceFact"
+    },
+    {
+      "intent" : "GetRandomSpaceFactPlanetSpecific",
+      "slots" : [
+        {
+          "name" : "Planet",
+          "type" : "LIST_OF_PLANETS"
+        }
+      ]
+    },
+    {
+      "intent" : "GetPlanetMass",
+      "slots" : [
+        {
+          "name" : "Planet",
+          "type" : "LIST_OF_PLANETS"
+        }
+      ]
+    },
+    {
+      "intent" : "GetSpaceNews",
+    },
+  ]
+}

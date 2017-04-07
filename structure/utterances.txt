@@ -1,0 +1,16 @@
+HelloWorld hello world
+HelloWorld hello
+HelloWorld hi
+
+GetRandomSpaceFact give me a random fact about space
+GetRandomSpaceFact tell me something about space
+GetRandomSpaceFact information on space
+GetRandomSpaceFact I'm curious about space
+GetRandomSpaceFact space fact please
+GetRandomSpaceFact space fact
+GetRandomSpaceFact random fact
+
+GetRandomSpaceFactPlanetSpecific tell me something about {Planet}
+GetRandomSpaceFactPlanetSpecific give me a fact on {Planet}
+GetRandomSpaceFactPlanetSpecific what's an interesting fact on {Planet}
+GetRandomSpaceFactPlanetSpecific {Planet} fact
