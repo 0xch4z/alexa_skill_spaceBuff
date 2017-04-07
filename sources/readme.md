@@ -1,8 +1,8 @@
-# ** <center> Welcome to the Repository for the Space Buff Alexa Skill </center> **
+# **<center> Welcome to the Repository for the Space Buff Alexa Skill </center>**
 
 ---
 
-## ** About Space Buff **
+## **About Space Buff**
 Space buff is my attempt at creating a public, free of use space API, which can be used with ease. I don't like many of the options out there right now, and as I've taken an interest to making cool apps revolving around space, I thought making a public API would be a fun and creative way to do all correctly, and get involved with the community.
 
 This specific repository is for the amazon alexa skill, which will interact with the API. I Thought it would be a good entry point to alexa development.
